@@ -1,0 +1,77 @@
+
+.shape{
+    display: inline-flex;
+    margin-right: 2px;
+    font-size: 12px;
+}
+
+li a{
+    text-decoration: none;
+    color: rgb(214, 211, 211);
+}
+
+
+.home{
+    padding: 150px 150px 200px 150px;
+    text-align: center;
+    color: white;
+}
+
+img{   
+    padding: 100px 0 100px 0;
+}
+
+
+a{
+    margin: 0px 30px 0 0;
+}
+
+.wiki{
+    border-radius: 5px;
+    background-color: gray;
+    color: black;
+    text-decoration: none;
+    padding: 14px 40px 14px 40px;
+}
+
+.yt{
+    border-radius: 5px;
+    background-color: red;
+    color: black;
+    text-decoration: none;
+    padding: 14px 40px 14px 40px;
+}
+
+.store{
+    border-radius: 5px;
+    background-color: orange;
+    color: black;
+    text-decoration: none;
+    padding: 14px 40px 14px 40px;
+}
+
+.quote{
+    text-align: center ;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    margin-top: 100px;
+    padding: 20px 10px 10px 10px;
+    font-size: 20px;
+    
+}
+
+.award{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+
+.honour{
+   text-align: center;
+   margin: 40px 30px 0px 40px;
+   padding-top: 30px;
+   border-radius: 5px;
+   border-style: groove;
+   font-size: 12px;
+}
